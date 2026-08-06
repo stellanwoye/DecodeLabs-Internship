@@ -1,4 +1,5 @@
 # 📊 Project 2 – Descriptive Analysis & Exploratory Data Analysis (EDA)
+[Project 2 Decodeslabs.xlsx](https://github.com/user-attachments/files/30804709/Project.2.Decodeslabs.xlsx)
 
 ## Overview
 
