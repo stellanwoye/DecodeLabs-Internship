@@ -62,17 +62,11 @@ The following tasks were completed:
 
 ## Before Cleaning
 
-![Dirty Data](dirty-data.png)
-
-
-
----
+<img src="./dirty-data.png" width="900">
 
 ## After Cleaning
 
-![Clean Data](Clean-data.png)
-
----
+<img src="./clean-data.png" width="900">
 
 ## Skills Demonstrated
 
