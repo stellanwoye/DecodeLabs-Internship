@@ -99,6 +99,6 @@ This project demonstrates the ability to import data into SQL Server, write effi
 
 ## Author
 
-**Stella Obuka**
+**Stella Nwoye**
 
 Junior Data Analyst | DecodeLabs Data Analytics Intern
