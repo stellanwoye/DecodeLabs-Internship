@@ -1,4 +1,6 @@
 # 💾 Project 3 – SQL Data Analysis
+[DecodeLabs_Project3_SQL_Queries.sql](https://github.com/user-attachments/files/30805182/DecodeLabs_Project3_SQL_Queries.sql)
+
 
 ## Overview
 
