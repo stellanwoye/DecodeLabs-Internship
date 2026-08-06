@@ -1,27 +1,104 @@
-# Project 3 – SQL Data Analysis
+# 💾 Project 3 – SQL Data Analysis
 
-## Objective
+## Overview
 
-Imported the cleaned dataset into SQL Server and performed SQL analysis to answer business questions.
+This project demonstrates the use of Structured Query Language (SQL) to analyze an e-commerce sales dataset. After importing the cleaned dataset into Microsoft SQL Server Management Studio (SSMS), various SQL queries were written to retrieve, summarize, and analyze the data to answer business-related questions.
 
-## SQL Concepts Used
+---
+
+## Project Objectives
+
+- Import a cleaned dataset into SQL Server.
+- Retrieve data using SQL queries.
+- Perform data filtering and sorting.
+- Generate business insights using SQL aggregate functions.
+- Demonstrate fundamental SQL querying techniques.
+
+---
+
+## Tools Used
+
+- Microsoft SQL Server Management Studio (SSMS)
+- SQL
+
+
+## Database Information
+
+**Database Name**
+
+`DecodeLabs_Project3`
+
+**Table Name**
+
+`dbo.Orders`
+
+
+## SQL Concepts Applied
+
+The following SQL concepts were used throughout this project:
 
 - SELECT
 - WHERE
-- GROUP BY
 - ORDER BY
+- GROUP BY
 - COUNT()
 - SUM()
 - AVG()
+- MAX()
+- MIN()
 
-## Database
+## Business Questions Answered
 
-DecodeLabs_Project3
+The SQL queries answered several business questions, including:
 
-## Table
+- Total number of orders
+- Total revenue generated
+- Average order value
+- Orders by payment method
+- Revenue by product
+- Product sales performance
+- Order status distribution
+- Top customers by spending
+- Revenue by referral source
+- Highest and lowest value orders
 
-dbo.Orders
+---
+
+# 💻 SQL Query Execution
+
+The screenshot below shows successful execution of SQL queries in SQL Server Management Studio.
+
+![SQL Query Results](sql-query-results.png)
+
+---
+
+# 🗄️ Database Overview
+
+The screenshot below shows the SQL Server database and the `dbo.Orders` table used for the analysis.
+
+![Database Overview](database-overview.png)
+
+---
+
+## Key Skills Demonstrated
+
+- SQL Query Writing
+- Database Management
+- Data Retrieval
+- Data Aggregation
+- Business Data Analysis
+- SQL Server Management
+
+---
 
 ## Outcome
 
-Successfully queried the dataset to generate meaningful business insights using SQL.
+This project demonstrates the ability to import data into SQL Server, write efficient SQL queries, and extract meaningful business insights from a relational database. It reinforces fundamental SQL skills that are essential for data analysis and business intelligence.
+
+---
+
+## Author
+
+**Stella Obuka**
+
+Junior Data Analyst | DecodeLabs Data Analytics Intern
