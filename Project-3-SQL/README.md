@@ -74,7 +74,7 @@ The screenshot below shows successful execution of SQL queries in SQL Server Man
 
 # 🗄️ Database Overview
 
-The screenshot below shows the SQL Server database and the `dbo.Orders` table used for the analysis.
+The screenshot below shows the SQL Server database and the dbo.Orders table used for the analysis.
 
 ![Database Overview](database-overview.png)
 
