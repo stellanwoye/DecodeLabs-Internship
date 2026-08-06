@@ -62,12 +62,11 @@ The following tasks were completed:
 
 ## Before Cleaning
 
-![Dirty Data](dirty-data.png)
+![Dirty Data](./dirty-data.png)
 
 ## After Cleaning
 
-![Clean Data](clean-data.png)
-
+![Clean Data](./clean-data.png)
 ## Skills Demonstrated
 
 - Data Cleaning
