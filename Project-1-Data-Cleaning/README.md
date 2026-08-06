@@ -62,7 +62,7 @@ The following tasks were completed:
 
 ## Before Cleaning
 
-![Dirty Data](dirty data.png)
+![Dirty Data](dirty-data.png)
 
 
 
@@ -70,7 +70,7 @@ The following tasks were completed:
 
 ## After Cleaning
 
-![Clean Data](Clean data.png)
+![Clean Data](Clean-data.png)
 
 ---
 
